@@ -44,9 +44,7 @@ steamworks_sdk_142/sdk/tools/ContentBuilder/scripts/app_build_929860.vdf
 Assets/TextMesh Pro
 Assets/TextMesh Pro.meta
 
-# Don't ignore the build_output file
-build_output
+# Ignore build destination
+/build_output
 
-
->>>>>>> 8756b9ffe7f0234ca3fd4dce53ea0755b218b4b4
 unity-asset-deps.txt
