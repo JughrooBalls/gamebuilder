@@ -45,6 +45,6 @@ Assets/TextMesh Pro
 Assets/TextMesh Pro.meta
 
 # Ignore build destination
-/build_output
+
 
 unity-asset-deps.txt
