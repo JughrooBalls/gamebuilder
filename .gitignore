@@ -47,7 +47,7 @@ Assets/TextMesh Pro.meta
 <<<<<<< HEAD
 # Ignore build destination
 <<<<<<< HEAD
-#build_output
+/build_output
 =======
 build_output
 >>>>>>> 0743118dc3ebd4856550c06c45f0c5bf2753fad8
